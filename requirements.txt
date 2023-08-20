@@ -1,0 +1,9 @@
+streamlit
+streamlit_chat
+streamlit_option_menu
+langchain
+chromadb
+pdfplumber
+python-dotenv
+huggingface_hub
+transformers
