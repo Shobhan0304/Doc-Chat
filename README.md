@@ -1,6 +1,8 @@
 # Doc-Chat
 Using Open Source Hugging Face models to talk with uploaded documents
 
+NOTE: Remember to add your Hugging Face API Key in the '.env' file
+
 To run this code, 
 1) Clone the Repository
 2) Install all the requirements
